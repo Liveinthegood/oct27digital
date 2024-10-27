@@ -1,0 +1,372 @@
+
+
+/* nav bar area */
+
+
+.treefrog{
+  font-size: 55px;
+  color: #FFB612;
+}
+
+.bold-typehead{
+
+  font-family: 'Alfa Slab One', cursive;
+
+}
+
+.navbar {
+padding-bottom: 1.5rem;
+
+}
+
+.nav-item {
+padding: 0 10px;
+
+
+}
+
+.nav-link{
+font-size: 35px;
+
+}
+
+.navbar-brand {
+font-family: "Ubuntu";
+font-size: 2.5rem;
+font-weight: bold;
+padding-left: 12px;
+color:white;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+/* buttons on page */
+
+
+.btn3 {
+   background: #F63D3D;
+   background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+   background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+   background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+   background-image: -o-linear-gradient(top, #F63D3D, #811616);
+   background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 15px;
+   line-height: 10px;
+   color: yellow;
+   font-family: Road Rage;
+   width: 75%;
+   font-size: 66px;
+   font-weight: 900;
+   padding: 28px;
+   -webkit-box-shadow: 1px 1px 6px 0 #000000;
+   -moz-box-shadow: 1px 1px 6px 0 #000000;
+   box-shadow: 1px 1px 6px 0 #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: solid #762C2C 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 20px;
+
+}
+
+
+.btn2 {
+   background: #F63D3D;
+   background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+   background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+   background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+   background-image: -o-linear-gradient(top, #F63D3D, #811616);
+   background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 10px;
+   line-height: 10px;
+   color: yellow;
+   font-family: Road Rage;
+   width: 249px;
+   font-size: 60px;
+   font-weight: 900;
+   padding: 28px;
+   -webkit-box-shadow: 1px 1px 6px 0 #000000;
+   -moz-box-shadow: 1px 1px 6px 0 #000000;
+   box-shadow: 1px 1px 6px 0 #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: solid #762C2C 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 20px;
+
+}
+
+
+/* hello my name is Billy let's take a resume journey and planet earth on index */
+
+
+
+.resumejourney{
+  height: 50%;
+  width: 100%;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  position:relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
+
+.earth{
+  height: 50%;
+  width: 100%;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  position:relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
+
+/* tan background on all pages */
+
+
+#features {
+padding: 7% 15%;
+background-color: tan;
+position: relative;
+
+}
+
+/* tan background on all pages */
+
+
+
+#featuresidex {
+  padding: 7% 15%;
+  background-color: tan;
+  position: relative;
+  
+  }
+
+
+/* highlighted words all pages */
+
+
+.pro{
+  text-decoration: underline;
+  color:red;
+
+}
+
+.pro2{
+
+  color:blue;
+
+}
+
+.prowhere{
+  text-decoration: underline;
+  color:red;
+  font-size: 160px;
+  font-family: 'Road Rage', cursive;
+
+
+}
+
+/* on index page - thank you for your time */
+
+
+.thankyou{
+  text-decoration: underline;
+  color:red;
+  font-size: 120px;
+  font-family: 'Road Rage', cursive;
+
+
+}
+
+/* all abord text index page */
+
+
+.allabord {
+
+  padding-top: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+  font-size: 105px;
+  color: yellow;
+  font-family: 'Road Rage', cursive;
+
+}
+
+/* testimonial area black box all supermarket pages */
+
+#testimonials {
+text-align: center;
+padding-bottom: 20px;
+background-color: black;
+color: white;
+
+}
+
+.namelocation{
+
+  font-size: 52px;
+  width:100%;
+  text-align: center;
+}
+
+.testimonial-text{
+
+  font-family: "Ubuntu";
+  color: #FFB612;
+  font-size: 55px;
+  text-align: center;
+  padding-top: 70px;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-bottom: 70px;
+  
+  
+  }
+
+
+/* horizonal rule all pages */
+
+
+
+hr {
+
+  border: solid red 16px;
+  border-bottom: none;
+  width: 100%;
+  margin: 100px auto;
+
+}
+
+
+
+/* billy in shirt and tie picture at 50 percent on a&p page */
+
+
+.billytie-image {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 75px;
+  padding-bottom: 75px;
+  height:50%;
+  width:50%;
+
+}
+
+
+/* pictures or logos on all pages at 100 percent */
+
+
+.testimonial-image2 {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 75px;
+  padding-bottom: 75px;
+  height:100%;
+  width:100%;
+  
+}
+
+/* billy holding stewie award on shoppers page */
+
+
+.billy-stewie {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 75px;
+  padding-bottom: 75px;
+  height:65%;
+  width:65%;
+  
+}
+
+/* main text all pages body copy */
+
+
+.main-text{
+  font-family: 'Road Rage', cursive;
+  font-size: 90px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+/* all types of pictures throughout website */
+
+
+.picture {
+  height: 100%;
+  width: 100%;
+  position:static;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+/* cartoon just follow me - Ned */
+
+
+.picturecartoon {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 85px;
+  padding-bottom: 75px;
+  height:90%;
+  width:90%;
+}
+
+
+/* top picture area on all pages */
+
+
+.HeaderTrueLove{
+
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 25px;
+  padding-bottom: 45px;
+}
+
+/* footer area all pages */
+
+
+.footer2 {
+  padding: 50px;
+  text-align: center;
+  font-size: 38px;
+  background-color: #FFB612;
+  
+  }
+
+
+
+
+
+
+
+
+
